@@ -16,7 +16,7 @@ data = {
   "firstName": "vladimir",
   "lastName": "luzin",
   "email": "hitheadman@mail.ru",
-  "password": "evhbcerf3hfpf",
+  "password": "***",
   "phone": "string",
   "userStatus": 0
 }
@@ -34,7 +34,7 @@ data = {
   "firstName": "vladimir",
   "lastName": "luzin",
   "email": "hitheadman@mail.ru",
-  "password": "evhbcerf3hfpf",
+  "password": "***",
   "phone": "string",
   "userStatus": 0
 }
